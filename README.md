@@ -4,11 +4,11 @@
 
 ## Pregunta:
 ¿Cuál es la concentración mínimo de violaceína que presenta efecto protector?
-__P:__ Melanocitos humanos
-__I:__ Violaceína
-__C:__ No violaceína
-__O:__ Fotoprotección / No protección
-__T:__ Experimento _in vitro_.
+.. __P:__ Melanocitos humanos
+.. __I:__ Violaceína
+.. __C:__ No violaceína
+.. __O:__ Fotoprotección / No protección
+.. __T:__ Experimento _in vitro_.
 
 ## Variables:
 
