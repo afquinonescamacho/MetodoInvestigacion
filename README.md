@@ -77,7 +77,9 @@ Aspectos teóricos/conceptuales:
 #### Cómo se mide la fotoprotección (FPS) a partir del compuesto
 
 ```
-Hoy en día se sigue aplicando la misma técnica para la determinación de SPF, que es mediante espectrofotometría y basados en la fórmula de Mansur. Aún no se ha medido en violaceína.
+Hoy en día se sigue aplicando la misma técnica para la determinación de SPF,
+que es mediante espectrofotometría y basados en la fórmula de Mansur.
+Aún no se ha medido en violaceína.
 ```
 
 [Efecto Juglans regia rta inflamatoria keratinocitos](https://sci-hub.ren/10.1016/j.phymed.2018.03.024)
@@ -90,10 +92,14 @@ Hoy en día se sigue aplicando la misma técnica para la determinación de SPF, 
 
 #### Mecanismos de citotoxicidad de compuestos como la violaceína actuales en comparación
 
-```
 [¡¡¡!!! La violaceína ejerce efecto inmunoestimulante via TLR8](https://www.nature.com/articles/s41598-019-50038-x)
 
-Emplearon viabilidad celular y usaron MTT (efecto citotóxico), también vieron activación celular (de algunos mecanismos) con la expresión de X proteína y emplearon rt-PCR, aunque también midieron la producción de X proteína con ELISA igual para conocer su respuesta al compuesto. También usaron un plásmido reportero con luciferasa para un gen.
+```
+Emplearon viabilidad celular y usaron MTT (efecto citotóxico), también vieron
+activación celular (de algunos mecanismos) con la expresión de X proteína y
+emplearon rt-PCR, aunque también midieron la producción de X proteína con ELISA
+igual para conocer su respuesta al compuesto.
+También usaron un plásmido reportero con luciferasa para un gen.
 ```
 
 [Actividad tripanocida:](https://link.springer.com/article/10.1186/s12896-018-0428-z) Igual siguen usando MTT, como en el resto de artículos donde miden citotoxicidad.
