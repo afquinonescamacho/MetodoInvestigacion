@@ -42,9 +42,9 @@ Formación de complejos Melanina - Violaceína | Cuantitativa / Continua / De ra
 
 ## Artículos expuestos:
 
-+ [Prodigiosina y violaceína con bloqueadores solares](Violaceina/'Towards an understanding of bacterial metabolites prodigiosin and violacein and their potential for use in commercial sunscreens.pdf')
++ [Prodigiosina y violaceína con bloqueadores solares](Violaceina/Towards\ an\ understanding\ of\ bacterial\ metabolites\ prodigid\ violacein\ and\ their\ potential\ for\ use\ in\ commercial\ sunscreens.pdf)
 
-+ [Citotoxicidad e inducción de apoptosis en V79 por violaceína](CitotoxicidadyMelanocitos/'Violacein cytotoxicity and induction of apoptosis in V79 cells.pdf')
++ [Citotoxicidad e inducción de apoptosis en V79 por violaceína](CitotoxicidadyMelanocitos/violaceincitotoxicityandapoptosisV79.pdf)
 
 + [Citotoxicidad en línea celular de melanocitos humanos](CitotoxicidadyMelanocitos/beberok2013.pdf)
 
