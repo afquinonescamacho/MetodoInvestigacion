@@ -1,32 +1,95 @@
 ## Metodología de la Investigación
 
-# Determinación _in vitro_ del efector fotoprotector de la violaceína producida por _Chromobacterium violaceum_ sobre melanocitos humanos por su potencial efecto bloqueador ante la radiación UV.
+# Determinación _in vitro_ del efector fotoprotector de la violaceína ~~producida por _Chromobacterium violaceum_~~ sobre melanocitos humanos.
 
-## Pregunta:
-¿Cuál es la concentración mínimo de violaceína que presenta efecto protector?
+### Pregunta:
+
+¿Cuál es la concentración mínima de violaceína que presenta efecto protector sobre melanocitos humanos?
+
 * __P:__ Melanocitos humanos
 * __I:__ Violaceína
-* __C:__ No violaceína
-* __O:__ Fotoprotección / No protección
+* __C:__ Bloqueador solar/Extracto de plantas
+* __O:__ Fotoprotección / No fotoprotección
 * __T:__ Experimento _in vitro_.
 
-## Hipótesis:
-En organismos euacriotas la violaceína presenta efecto fotoptotector y no citotóxico cuando las células se exponen a la radiación UV. 
+### Hipótesis:
 
-## Objetivos:
+En organismos eucariotas la violaceína presenta efecto fotoptotector y no citotóxico cuando los melanocitos se exponen a la radiación UV. 
 
-### Objetivo general:
-Determinar a qué concentración la violaceína presenta efecto fotoprotector en melanocitos humanos.
-### Objetivo específico:
+### Objetivos:
+
+#### Objetivo general:
+
+Determinar el efecto fotoprotector y la citotoxicidad de la violaceína en melanocitos humanos.
+
+#### Objetivo específico:
+
+* Evaluar el rango de concentración en el cual la violaceína presenta efecto fotoprotector en los melanocitos humanos.
+
 * Cuantificar el rango de concentraciones a la cual la violaceína no presenta efecto citotoxico en los melanocitos humanos.
 
-## Variables:
+### Variables:
 
 __Variables__ | __Tipo de variable__ | __Definición del estudio__ | __Valores límites__
 --- | --- | --- | ---
-Violaceína | Cuantitativa / Continua / De razón | Variación de la concentración de la sustancia denominada violaceína | 5 a 0,078 M
-Supervivencia | Cualitativa / Nominal / Dicotómica | Diferenciación de célula vivas y muertas | Célula viva / Célula muerta
-Morfología | Cualitativa / Ordinal / Politómica | Alteraciones morfológicas detectables microscópicamente como pérdida de confluencia, redondeo y contracción celular, y granulación y vacuolización de citoplasma. | leve / moderada / severa
-Fotoprotección | Cuantitativa / Razón / Discreto | Medición espectrofotométrica que se evalúa con la siguiente fórmula: | __FPS__ De 2 a 12: mínimo / De 12 a 30: moderada / De 30 en adelante: alta
+Violaceína | Cuantitativa / Discreta / De razón | Variación de la concentración de la sustancia denominada violaceína | 0-30 uM
+MTT | Cuantitativa / Continua / De razón | Porcentaje de reducción del colorante 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide. Medido de acuerdo a la absorbancia resultante. | 0-100%
+Factor de Protección Solar (FPS) | Cuantitativa / Continua / De razón | FPS evaluado en cada concentración de violaceína no citotóxica para los melanocitos ![Fórmula FPS](https://www.researchgate.net/profile/Natalia_Castejon/post/Does_anyone_know_how_to_apply_the_concentration_correction_factor_in_Mansur_equation_to_calculate_the_SPF_in_vitro/attachment/5c977f9b3843b0342432f3e7/AS%3A739963587018759%401553432475796/image/Mansur+equation.jpg) | 0-100 FPS
 Tiempo de exposición | Cuantitativa / Razón / Continua | Tiempo de exposición de los cultivos de melanocitos a la radiación UV | Tiempo en horas, minutos y segundos
-Actividad metabólica | Cuantitativa / Razón / Discreta | Mediante la técnica de MTT se mide el porcentaje de viabilidad celular mediante el cálculo de: | 0% a 100%
+Dosis de radiación | Cuantitativa / Razón / Discreta | Espectro de dosis de radiación UV-A y UV-B a las cuales serán sometidas los melanocitos | 280-330 nm
+Fluorescencia | Cuantitativa / Discreta / De razón | Intensidad de fluorescencia emitida por el biosensor que es transfectado en el melanocito. | Densidad óptica (0-50)
+Formación de complejos Melanina - Violaceína | Cuantitativa / Continua / De razón | Valores de % de Transmitacia y Número de Onda generados a partir de las medades realizadas por espectroscopia infrarroja por transformada de Furier | 0-100% Transmitancia / 500-4000 1/cm (Número de onda)
+
+## Artículos expuestos:
+
++ [Prodigiosina y violaceína con bloqueadores solares](Violaceina/'Towards an understanding of bacterial metabolites prodigiosin and violacein and their potential for use in commercial sunscreens.pdf')
+
++ [Citotoxicidad e inducción de apoptosis en V79 por violaceína](CitotoxicidadyMelanocitos/'Violacein cytotoxicity and induction of apoptosis in V79 cells.pdf')
+
++ [Citotoxicidad en línea celular de melanocitos humanos](CitotoxicidadyMelanocitos/beberok2013.pdf)
+
+.
+
+# PROPUESTA DE INVESTIGACIÓN:
+
+## Justificación:
+
+
+## Marco Conceptual:
+
+
+## Estado del Arte:
+
+
+
+## Metodología:
+
+
+
+## Impacto Ambiental:
+
+
+
+## Impacto de los Resultados:
+
+
+
+## Bibliografía:
+
+
+
+## Palabras clave:
+
+
+
+## Cronograma:
+
+
+
+## Presupuesto:
+
+
+
+
+
+
