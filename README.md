@@ -60,7 +60,41 @@ Formación de complejos Melanina - Violaceína | Cuantitativa / Continua / De ra
 
 ## Estado del Arte:
 
++ Qué se sabe y que hay hasta ahora de la violaceína
 
+(Sugerencia) [Actividad tripanocida:](https://link.springer.com/article/10.1186/s12896-018-0428-z) Muestran la vía biosintética y la ubicación de genes en plásmido (mapa).
+
++ Cómo se mide la fotoprotección (FPS) a partir del compuesto
+
+```
+Hoy en día se sigue aplicando la misma técnica para la determinación de SPF, que es mediante espectrofotometría y basados en la fórmula de Mansur. Aún no se ha medido en violaceína.
+```
+
+[Efecto Juglans regia rta inflamatoria keratinocitos](https://sci-hub.ren/10.1016/j.phymed.2018.03.024)
+
+[Safranal y su determinación de FPS](https://bibliotecavirtual.uis.edu.co:2191/science/article/pii/S0045206817307307#b0210)
+
+[Determinación de FPS en varios extractos de una planta:](http://www.plantarchives.com/file/SPL%20ISSUE%20SUPP%202,2019/33%20(185-187).pdf) En esta podemos encontrar que EExI es una constante como se ve en el cuadro de este artículo que depende de la longitud de absorbancia.
+
++ Averiguar los compuestos que se usan en los nuevos bloqueadores (averiguar si estos están siendo citotóxicos)
+
++ Mecanismos de citotoxicidad de compuestos como la violaceína actuales en comparación
+
+```
+[¡¡¡!!! La violaceína ejerce efecto inmunoestimulante via TLR8](https://www.nature.com/articles/s41598-019-50038-x)
+
+Emplearon viabilidad celular y usaron MTT (efecto citotóxico), también vieron activación celular (de algunos mecanismos) con la expresión de X proteína y emplearon rt-PCR, aunque también midieron la producción de X proteína con ELISA igual para conocer su respuesta al compuesto. También usaron un plásmido reportero con luciferasa para un gen.
+```
+
+[Actividad tripanocida:](https://link.springer.com/article/10.1186/s12896-018-0428-z) Igual siguen usando MTT, como en el resto de artículos donde miden citotoxicidad.
+
+> Aquí lo innovador sería emplear el anticuerpo citoplasmático y usar la citometría de flujo.
+
++ Qué tipos de líneas celulares son mejores para emplear las pruebas de citotoxicidad (marcaje)
+
++ Cómo modificaríamos a los melanocitos a favor del proyecto
+
++ Formación de complejos
 
 ## Metodología:
 
