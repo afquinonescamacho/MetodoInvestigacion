@@ -55,16 +55,26 @@ Formación de complejos Melanina - Violaceína | Cuantitativa / Continua / De ra
 ## Justificación:
 
 
+
 ## Marco Conceptual:
 
+Aspectos teóricos/conceptuales:
+
+#### Introducción radiación UV en el ADN
+
+#### Bacterias y violaceína (qué es la violaceína, Fotoprotección (generalidades), cómo se produce (bajo qué condiciones y maquinaria enzimática) m.o que la producen, usos), técnicas empleadas para medir fotoprotección 
+
+#### Melanocitos humanos (Especificar la cepa) características, enfermedades relacionadas con UV, citotoxicidad (generalidades), técnicas empleadas para medir citotoxicidad 
+
+#### Bloqueadores solares (“tipo introducción” para que piensen que la violaceína puede llegar a serlo) FSP
 
 ## Estado del Arte:
 
-+ Qué se sabe y que hay hasta ahora de la violaceína
+#### Qué se sabe y que hay hasta ahora de la violaceína
 
 (Sugerencia) [Actividad tripanocida:](https://link.springer.com/article/10.1186/s12896-018-0428-z) Muestran la vía biosintética y la ubicación de genes en plásmido (mapa).
 
-+ Cómo se mide la fotoprotección (FPS) a partir del compuesto
+#### Cómo se mide la fotoprotección (FPS) a partir del compuesto
 
 ```
 Hoy en día se sigue aplicando la misma técnica para la determinación de SPF, que es mediante espectrofotometría y basados en la fórmula de Mansur. Aún no se ha medido en violaceína.
@@ -76,9 +86,9 @@ Hoy en día se sigue aplicando la misma técnica para la determinación de SPF, 
 
 [Determinación de FPS en varios extractos de una planta:](http://www.plantarchives.com/file/SPL%20ISSUE%20SUPP%202,2019/33%20(185-187).pdf) En esta podemos encontrar que EExI es una constante como se ve en el cuadro de este artículo que depende de la longitud de absorbancia.
 
-+ Averiguar los compuestos que se usan en los nuevos bloqueadores (averiguar si estos están siendo citotóxicos)
+#### Averiguar los compuestos que se usan en los nuevos bloqueadores (averiguar si estos están siendo citotóxicos)
 
-+ Mecanismos de citotoxicidad de compuestos como la violaceína actuales en comparación
+#### Mecanismos de citotoxicidad de compuestos como la violaceína actuales en comparación
 
 ```
 [¡¡¡!!! La violaceína ejerce efecto inmunoestimulante via TLR8](https://www.nature.com/articles/s41598-019-50038-x)
@@ -90,11 +100,11 @@ Emplearon viabilidad celular y usaron MTT (efecto citotóxico), también vieron 
 
 > Aquí lo innovador sería emplear el anticuerpo citoplasmático y usar la citometría de flujo.
 
-+ Qué tipos de líneas celulares son mejores para emplear las pruebas de citotoxicidad (marcaje)
+#### Qué tipos de líneas celulares son mejores para emplear las pruebas de citotoxicidad (marcaje)
 
-+ Cómo modificaríamos a los melanocitos a favor del proyecto
+#### Cómo modificaríamos a los melanocitos a favor del proyecto
 
-+ Formación de complejos
+#### Formación de complejos
 
 ## Metodología:
 
