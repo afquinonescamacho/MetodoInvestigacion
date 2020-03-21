@@ -118,11 +118,28 @@ También usaron un plásmido reportero con luciferasa para un gen.
 
 ## Impacto Ambiental:
 
-Impactos en el conocimiento del campo de estudio; impactos sobre la productividad y la competitividad; impactos regionales; impactos en la calidad de vida de la población; impactos en las políticas públicas; otros que consideren pertinentes.
+https://oceanservice.noaa.gov/news/sunscreen-corals.html
 
 ## Impacto de los Resultados:
 
+> Impactos en el conocimiento del campo de estudio; impactos sobre la productividad y la competitividad; impactos regionales; impactos en la calidad de vida de la población; impactos en las políticas públicas; otros que consideren pertinentes.
 
+Conocimiento campo: Tiene impacto en que no solo se tiene en cuenta el FPS del compuesto, sino que también se identifica su citotoxicidad y la interacción (en formación de complejos) con moléculas producidas frecuentemente en la célula de estudio, en este caso los melanocitos, y permite que otros autores tengan en cuenta la mayor cantidad de factores para que no solo se halle la utilidad de un compuesto, sino que para saber que no sea contraproducente con el objetivo de sus investigaciones. También tenemos impacto en el uso de otras técnicas que aumentan la sensibilidad y que innovan en la determinación de variables, por ejemplo, usamos citometría de flujo para detectar un marcador que se une a una proteína cuya expresión es inducida de acuerdo al daño en el ADN, y así podemos conocer mejor la genotoxicidad que tiene el compuesto en nuestra célula de interés respecto a la concentración de este.
+
+Productividad y competividad: Aumentamos la productividad al emplear técnicas que permiten la obtención de resultados en menor tiempo y con igual o más sensibilidad. De igual modo, con nuestros resultados se puede aumentar la competitividad ya que con ellos las industrias pueden generar productos (bloqueadores solares) e incluso disminuir costos al disminuir el empleo de otras sustancias o sustituirlos. La violaceína se obtiene de bacterias, así que es más compatible con la vida y comercialmente se puede usar esta información para que la gente recurra a productos hechos con este compuesto.
+
+Impactos regionales: Con el conocimiento proporcionado aquí, si las personas observan un producto que contiene este compuesto, podrán conocer cómo impacta en las células de la piel y así saben que no ponen su salud en riesgo al usarlo sobre ella.
+Calidad de vida: Puede mejorar la calidad de vida al no exponer la piel (melanocitos) a sustancias químicas de origen sintético y sí de origen biológico como la violaceína.
+
+Políticas públicas: Ni idea. Sería impulsar a la investigación conociendo la utilidad de información como la nuestra para aplicarla en nuestras industrias y tener otra generación de insumos que traigan beneficio a la economía del país.
+
+**Reforzar con:**
+
+https://www.bbc.com/future/article/20190722-sunscreen-safe-or-toxic
+
+https://www.nytimes.com/2019/06/10/upshot/how-safe-is-sunscreen.html
+
+https://www.sciencedirect.com/science/article/pii/S1087002415305128
 
 ## Bibliografía:
 
