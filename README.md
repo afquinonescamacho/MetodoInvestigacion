@@ -118,7 +118,7 @@ También usaron un plásmido reportero con luciferasa para un gen.
 
 ## Impacto Ambiental:
 
-
+Impactos en el conocimiento del campo de estudio; impactos sobre la productividad y la competitividad; impactos regionales; impactos en la calidad de vida de la población; impactos en las políticas públicas; otros que consideren pertinentes.
 
 ## Impacto de los Resultados:
 
